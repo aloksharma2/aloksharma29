@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aloksharma29(https://github.com/aloksharma29)
+- 👋 Hi, I’m [@aloksharma29](https://github.com/aloksharma29)
 - 👀 I’m interested in Machine learning and AI.
 - 🌱 I’m currently learning C, Python and SAS.
 - 💞️ I’m not looking to collaborate now.
