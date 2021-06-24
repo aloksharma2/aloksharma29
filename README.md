@@ -7,6 +7,12 @@
 
 [![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faloksharma29&count_bg=%2379C83D&title_bg=%23555555&icon=zalando.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/aloksharma29)
 
+<br>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
+ 
+ </br>
+
 
   #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
