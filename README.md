@@ -11,8 +11,7 @@ My current organization trusted me with some business analyzing work in 2019. Th
  
 1. BSc. (Physical Sciences) from [University of Delhi](http://dsc.du.ac.in/)    
 _Studied: Physics, Mathematics, Chemistry_
-2. PG Diploma in Management from [IMT-CDL](https://www.imtcdl.ac.in/) Ghaziabad
-_Studied: operations management_
+2. PG Diploma in Management from [IMT-CDL](https://www.imtcdl.ac.in/) Ghaziabad<br/>_Studied: operations management_
 3. Certification in Data Science - [Imarticus](https://imarticus.org/data-science-prodegree/)
 
 ---
