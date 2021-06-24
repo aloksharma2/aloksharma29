@@ -1,13 +1,13 @@
-# _Repositories of **Alok Sharma**_
+# _**Alok Sharma's** repositories_
 
 Hi, I am Alok Sharma. I have been working in travel industry for the last 5 years with 2 year in **business analysis**. 
 
-My current company introduced me to data analysis by giving some analysis work on our previous years data in 2019. As, I am inclind towards the Mathematics from my childhood. 
+My current company introduced me to data analysis by giving some analysis work on our previous years data in 2019. As, I was inclind towards the Mathematics from my childhood. 
 
-I found data analysis work very interesting & fun.
+I found data analysis very interesting & fun.
 
 ---
-**Education:**
+**:mortar_board:Education:**
 
 1. BSc. (Physical Sciences) from [University of Delhi](http://dsc.du.ac.in/)    
 _Studied: Physics, Mathematics, Chemistry_
@@ -15,11 +15,19 @@ _Studied: Physics, Mathematics, Chemistry_
 _Studied: operations management_
 3. Certification in Data Science - [Imarticus](https://imarticus.org/data-science-prodegree/)
 
-**Currently learning:** C programming
+**🌱 Currently learning:** C programming
 
+**:white_check_mark:Learning checklist**
+ - [x] Sql
+ - [x] Advance Excel
  - [x] Python programming
- - [x] MySql
  - [x] SAS programming (Basics)
+ - [ ] R programming
+ - [x] Machine learning algorithms (_scikit-learn, feature enginering, etc._)
+ - [ ] Neural Networks
+ - [ ] Tensorflow & keras
+ - [ ] NLP (_Natural langauge processing_)
+ - [ ] CV (_Computer vision_)
 
 
 
