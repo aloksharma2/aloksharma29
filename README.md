@@ -1,23 +1,29 @@
+<br>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksharma29" alt="aloksharma29" /> </p>
+ 
+ </br>
+
 # _**Alok Sharma's** repositories_
 
 Hi, I am Alok Sharma. I have been working in travel industry for the last 5 years with 2 year in **business analysis**. 
 
-My current company introduced me to data analysis by giving some analysis work on our previous years data in 2019. As, I was inclind towards the Mathematics from my childhood. 
-
-I found data analysis very interesting & fun.
+My current company introduced me to data analysis by giving some analysis work on our previous years data in 2019. As, I was inclind towards the Mathematics from my childhood. As a result of which, I found data analysis very interesting & fun.
 
 ---
-**:mortar_board:Education:**
-
+:mortar_board: **Education:**
+ 
 1. BSc. (Physical Sciences) from [University of Delhi](http://dsc.du.ac.in/)    
 _Studied: Physics, Mathematics, Chemistry_
 2. PG Diploma in Management from [IMT-CDL](https://www.imtcdl.ac.in/) Ghaziabad
 _Studied: operations management_
 3. Certification in Data Science - [Imarticus](https://imarticus.org/data-science-prodegree/)
 
-**🌱 Currently learning:** C programming
+---
+:seedling: **🌱 Currently learning:** C programming
 
-**:white_check_mark:Learning checklist**
+---
+:white_check_mark: **Learning checklist**
  - [x] Sql
  - [x] Advance Excel
  - [x] Python programming
@@ -36,23 +42,8 @@ _Studied: operations management_
 
 
 ---
-
-
-- 👋 Hi, I’m [@aloksharma29](https://github.com/aloksharma29)
-- 👀 I’m interested in Machine learning and AI.
-- 🌱 I’m currently learning C, Python and SAS.
-- 💞️ I’m not looking to collaborate now.
-- 📫 How to reach me <wait for it>
-
-
- <br>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksharma29" alt="aloksharma29" /> </p>
  
- </br>
-
-
-  #### 👨🏻‍💻 Languages and Tools <br />
+  ### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
