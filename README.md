@@ -4,6 +4,13 @@
 - 💞️ I’m not looking to collaborate now.
 - 📫 How to reach me <wait for it>
 
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+
+
 <!---
 aloksharma29/aloksharma29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
