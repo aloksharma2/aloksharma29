@@ -1,7 +1,10 @@
-# _**Alok Sharma's**_ _repositories_                               <img src="https://komarev.com/ghpvc/?username=aloksharma29" alt="aloksharma29" />
+# _Alok Sharma's repositories_  <img src="https://komarev.com/ghpvc/?username=aloksharma29" alt="aloksharma29" />
 Hi, I am Alok Sharma. I have been working in travel industry for the last 5 years with 2 year in **business analysis**. 
 
 My current company introduced me to data analysis by giving some analysis work on our previous years data in 2019. As, I was inclind towards the Mathematics from my childhood. As a result of which, I found data analysis very interesting & fun.
+
+---
+:seedling: **Currently learning:** C programming
 
 ---
 :mortar_board: **Education:**
@@ -11,9 +14,6 @@ _Studied: Physics, Mathematics, Chemistry_
 2. PG Diploma in Management from [IMT-CDL](https://www.imtcdl.ac.in/) Ghaziabad
 _Studied: operations management_
 3. Certification in Data Science - [Imarticus](https://imarticus.org/data-science-prodegree/)
-
----
-:seedling: **Currently learning:** C programming
 
 ---
 :white_check_mark: **Learning checklist**
@@ -28,11 +28,8 @@ _Studied: operations management_
  - [ ] NLP (_Natural langauge processing_)
  - [ ] CV (_Computer vision_)
 
-
-
-
-
-
+<br/>
+<br/>
 
 ---
  
@@ -53,7 +50,8 @@ _Studied: operations management_
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
   -->
-  
+ 
+
 <!---
 aloksharma29/aloksharma29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
