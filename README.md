@@ -1,7 +1,4 @@
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksharma29" alt="aloksharma29" /> </p>
-
-# _**Alok Sharma's**_ _repositories_
-
+# _**Alok Sharma's**_ _repositories_                               <img src="https://komarev.com/ghpvc/?username=aloksharma29" alt="aloksharma29" />
 Hi, I am Alok Sharma. I have been working in travel industry for the last 5 years with 2 year in **business analysis**. 
 
 My current company introduced me to data analysis by giving some analysis work on our previous years data in 2019. As, I was inclind towards the Mathematics from my childhood. As a result of which, I found data analysis very interesting & fun.
