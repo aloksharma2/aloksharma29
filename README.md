@@ -1,7 +1,5 @@
 <br>
-
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksharma29" alt="aloksharma29" /> </p>
- 
  </br>
 
 # _**Alok Sharma's** repositories_
@@ -20,7 +18,7 @@ _Studied: operations management_
 3. Certification in Data Science - [Imarticus](https://imarticus.org/data-science-prodegree/)
 
 ---
-:seedling: **🌱 Currently learning:** C programming
+:seedling: **Currently learning:** C programming
 
 ---
 :white_check_mark: **Learning checklist**
