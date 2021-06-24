@@ -1,6 +1,6 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksharma29" alt="aloksharma29" /> </p>
 
-# _**Alok Sharma's** repositories_
+# _**Alok Sharma's**_ _repositories_
 
 Hi, I am Alok Sharma. I have been working in travel industry for the last 5 years with 2 year in **business analysis**. 
 
