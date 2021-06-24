@@ -1,3 +1,35 @@
+# _Repositories of **Alok Sharma**_
+
+Hi, I am Alok Sharma. I have been working in travel industry for the last 5 years with 2 year in **business analysis**. 
+
+My current company introduced me to data analysis by giving some analysis work on our previous years data in 2019. As, I am inclind towards the Mathematics from my childhood. 
+
+I found data analysis work very interesting & fun.
+
+---
+**Education:**
+
+1. BSc. (Physical Sciences) from [University of Delhi](http://dsc.du.ac.in/)    
+_Studied: Physics, Mathematics, Chemistry_
+2. PG Diploma in Management from [IMT-CDL](https://www.imtcdl.ac.in/) Ghaziabad
+_Studied: operations management_
+3. Certification in Data Science - [Imarticus](https://imarticus.org/data-science-prodegree/)
+
+**Currently learning:** C programming
+
+ - [x] Python programming
+ - [x] MySql
+ - [x] SAS programming (Basics)
+
+
+
+
+
+
+
+---
+
+
 - 👋 Hi, I’m [@aloksharma29](https://github.com/aloksharma29)
 - 👀 I’m interested in Machine learning and AI.
 - 🌱 I’m currently learning C, Python and SAS.
